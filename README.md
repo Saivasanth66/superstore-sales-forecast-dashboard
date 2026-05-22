@@ -131,7 +131,7 @@ super-store-sales-dashboard/
 **Sai Vasanth Srungarapu**
 📧 saivasanth9701@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/sai-vasanth-srungarapu-373550282/)
-🐙 [GitHub]()
+🐙 [GitHub](https://github.com/Saivasanth66)
 
 ---
 
