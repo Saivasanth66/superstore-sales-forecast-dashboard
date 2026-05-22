@@ -2,10 +2,6 @@
 
 > An end-to-end sales analytics solution built in Power BI, transforming raw retail transaction data into executive-ready insights with time-series forecasting, KPI monitoring, and regional performance analysis.
 
-![Dashboard Preview](./StoreSales_dashboard11.png)
-
----
-
 ## 📊 Project Overview
 
 This project analyzes **2 years of retail sales data (2019–2020)** across multiple product categories, customer segments, and U.S. states. The dashboard enables business stakeholders to monitor performance, identify trends, and make data-driven decisions — all from a single interactive interface.
